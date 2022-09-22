@@ -1,7 +1,7 @@
 ### João Santos Profile
 
 -  	💻  Bachelors in Informatics Engineer
--   📕  Student of Master Degree of Informatics Engineer at University of Trás-os-Montes and Alto Douro
+-   💿  Student of Master Degree of Informatics Engineer at University of Trás-os-Montes and Alto Douro
 
 
 <div align="center">
