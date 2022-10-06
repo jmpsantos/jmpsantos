@@ -2,6 +2,8 @@
 
 -  	💻  Bachelors in Informatic Engineering
 -   💿  Currently enrolled: Master's Degree in Informatics Engineering at University of Trás-os-Montes and Alto Douro
+-   📧  How to reach me: jmpsantos148@gmail.com
+-   https://www.linkedin.com/in/jmpsantos17/
 
 
 <div align="center">
