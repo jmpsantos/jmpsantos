@@ -1,6 +1,6 @@
 ### João Santos Profile
 
--  	💻  Lincenciate in Computer Engineering
+-  	💻  Licenciate in Computer Engineering
 -   💿  Currently enrolled: Master's Degree in Computer Engineering at University of Trás-os-Montes and Alto Douro
 -   📧  How to reach me: jmpsantos148@gmail.com
 -   https://www.linkedin.com/in/jmpsantos17/
